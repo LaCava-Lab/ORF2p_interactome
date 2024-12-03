@@ -1,0 +1,15 @@
+Case,Control,Group_experiment
+Hua_1_N2102ep_Orf2_1,Hua_5_N2102ep_IgG_1,ORF2_vs_IgG_Global
+Hua_2_N2102Ep_Orf2_2,Hua_6_N2102Ep_IgG_2,
+Hua_3_N2102Ep_Orf2_3,Hua_7_N2102Ep_IgG_3,
+Hua_4_N2102Ep_Orf2_4,Hua_8_N2102Ep_IgG_4,
+anti.ORF2p.IP_1,anti.rIgG.IP_1,
+anti.ORF2p.IP_2,anti.rIgG.IP_2,
+anti.ORF2p.IP_3,anti.rIgG.IP_3,
+Hua_1_N2102ep_Orf2_1,Hua_5_N2102ep_IgG_1,ORF2_vs_IgG_Hua
+Hua_2_N2102Ep_Orf2_2,Hua_6_N2102Ep_IgG_2,
+Hua_3_N2102Ep_Orf2_3,Hua_7_N2102Ep_IgG_3,
+Hua_4_N2102Ep_Orf2_4,Hua_8_N2102Ep_IgG_4,
+anti.ORF2p.IP_1,anti.rIgG.IP_1,ORF2_vs_IgG_Mat
+anti.ORF2p.IP_2,anti.rIgG.IP_2,
+anti.ORF2p.IP_3,anti.rIgG.IP_3,
