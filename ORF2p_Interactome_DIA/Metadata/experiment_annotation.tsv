@@ -1,0 +1,13 @@
+file	sample	sample_name	condition	replicate
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_40-ORS-B2.mzML	2408_UE_40-ORS-B2.mzML	Scramble_2	scramble	2
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_35-ORS-B1.mzML	2408_UE_35-ORS-B1.mzML	Scramble_1	scramble	1
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_37-ORS-D1.mzML	2408_UE_37-ORS-D1.mzML	Shrna2_1	shrna2	1
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_34-ORS-A1.mzML	2408_UE_34-ORS-A1.mzML	Wt_1	wt	1
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_42-ORS-D2.mzML	2408_UE_42-ORS-D2.mzML	Shrna2_2	shrna2	2
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_36-ORS-C1.mzML	2408_UE_36-ORS-C1.mzML	Shrna1_1	shrna1	1
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_41-ORS-C2.mzML	2408_UE_41-ORS-C2.mzML	Shrna1_2	shrna1	2
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_44-ORS-A3.mzML	2408_UE_44-ORS-A3.mzML	Wt_3	wt	3
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_39-ORS-A2.mzML	2408_UE_39-ORS-A2.mzML	Wt_2	wt	2
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_45-ORS-B3.mzML	2408_UE_45-ORS-B3.mzML	Scramble_3	scramble	3
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_47-ORS-C3.mzML	2408_UE_47-ORS-C3.mzML	Shrna1_3	shrna1	3
+I:\Omar\ORF2_IP_DIA\20240224_Raw_Proteomics\2408_UE_49-ORS-D3.mzML	2408_UE_49-ORS-D3.mzML	Shrna2_3	shrna2	3
