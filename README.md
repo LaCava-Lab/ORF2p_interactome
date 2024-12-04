@@ -1,8 +1,9 @@
 # LINE1 ORF2p IP MS
 
-#### Data available via
-#### Contact ..... for any questions
-#### Date
+#### Data available via  ProteomeXchange with identifier PXD057269
+#### Contact o.g.rosas.bringas@rug.nl and jlacava@rockefeller.edu for any questions
+#### Date 20 November 2024
+
 
 We had the next conditions
 
@@ -26,7 +27,7 @@ We had the next conditions
 | N2102Ep KD-2 LINE-1 | α-ORF2p         | DIA              |
 | N2102Ep KD-2 LINE-1 | α-ORF2p         | DIA              |
 
-Project code and data is organized in following order:
+Project code and data are organized in the following order:
 
 * DDA
   * src
